@@ -118,7 +118,7 @@ ExpressVPN的客户支持也是一大亮点。它提供7×24小时在线客服�
 
 ****
 
-### 安卓手机VPN备选：StrongVPN - <a href="https://bit.ly/stg-vpn">老牌VPN，每月3.97美金，可支付宝付款</a>
+### 安卓手机VPN备选：<a href="https://bit.ly/stg-vpn">StrongVPN - 老牌VPN，每月3.97美金，可支付宝付款</a>
 
 ![安卓手机翻墙加成，最好用的安卓VPN推荐：StrongVPN Banner](https://raw.githubusercontent.com/cnvpns/android.github.io/refs/heads/main/image/AndroidVPN-StrongVPN.png)
 
