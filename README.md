@@ -1,6 +1,6 @@
 # <p align="center">大陆手机翻墙教程：最好用的安卓机场和安卓VPN推荐</p>
 
-<p align="center">最近更新：2025年8月11日</p>
+<p align="center">最近更新：2025年9月16日</p>
 
 近年来，手机已经成为我们日常工作和生活中不可或缺的工具。越来越多的人依赖手机进行办公、学习和娱乐。与此同时，许多大陆用户也开始寻找手机翻墙工具，以突破GFW的限制，访问Google、ChatGPT、YouTube、Netflix等海外网站。在众多翻墙工具中，安卓VPN凭借其高安全性、快速连接和简单易用的特点，已成为中国用户访问海外网站的首选方式。
 
@@ -390,3 +390,4 @@ ExpressVPN会自动为你推荐最优服务器节点，但你也可以手动选�
 * <a href="https://github.com/cnvpns/pcvpn.github.io">电脑翻墙教程</a>：2025年中国最好用的PC端电脑VPN推荐！
 * <a href="https://github.com/cnvpns/freevpn.github.io">免费VPN推荐</a>：2025年最新免费VPN推荐（中国可用）！
 * <a href="https://github.com/cnvpns/intochina.github.io">翻墙回国VPN</a>：2025年最好用的翻墙回国VPN推荐！
+* <a href="https://github.com/cnvpns/expressvpn.github.io">ExpressVPN评测</a>：ExpressVPN怎么样？ExpressVPN国内还能用吗？
