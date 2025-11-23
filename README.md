@@ -1,6 +1,6 @@
 # <p align="center">大陆手机翻墙教程：最好用的安卓机场和安卓VPN推荐</p>
 
-<p align="center">最近更新：2025年10月13日</p>
+<p align="center">最近更新：2025年11月23日</p>
 
 近年来，手机已经成为我们日常工作和生活中不可或缺的工具。越来越多的人依赖手机进行办公、学习和娱乐。与此同时，许多大陆用户也开始寻找手机翻墙工具，以突破GFW的限制，访问Google、ChatGPT、YouTube、Netflix等海外网站。在众多翻墙工具中，安卓VPN凭借其高安全性、快速连接和简单易用的特点，已成为中国用户访问海外网站的首选方式。
 
@@ -393,3 +393,4 @@ ExpressVPN会自动为你推荐最优服务器节点，但你也可以手动选�
 * <a href="https://github.com/cnvpns/expressvpn.github.io">ExpressVPN评测</a>：ExpressVPN怎么样？ExpressVPN好用吗？
 * <a href="https://github.com/cnvpns/telegram.github.io">Telegram注册</a>：如何注册电报？Telegram收不到验证码怎么办？
 * <a href="https://github.com/cnvpns/tiktok.github.io">TikTok教程</a>：如何注册TikTok帐号？如何购买TikTok帐号？
+* <a href="https://github.com/cnvpns/appleid.github.io">苹果ID购买</a>：2025年最新海外苹果 Apple ID购买/注册教程！
